@@ -94,3 +94,8 @@ KOINS mantiene:
 | Juanita Parra     | Multimedia | Producción de video y recursos visuales     |
 | Alejandro parra   | Modelado   | Diseño de diagramas UML, patrones de diseño, modelado de clases y relaciones |
 | Esteban Sequeda      | Documentación | Redacción del documento y coordinación del proyecto |
+
+---
+
+## Adicionales
+[Prototipo en Figma](https://www.figma.com/make/tQGUC20DmAsd0Wcd2sJA6u/Koins-Mobile-Finance-App?p=f&fullscreen=1)
